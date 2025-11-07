@@ -2,7 +2,7 @@
 
 I am currently a Computer Science student at Ton Duc Thang University
 
-- 🤔 I’m looking for an internship position (Data)
+- 🤔 I’m looking for AI position
 - 🎫 IELTS 6.0
 
 
